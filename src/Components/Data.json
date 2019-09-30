@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name": "Phạm Tấn Đại",
+        "tel": "0376504234",
+        "permission": 1
+    },
+    {
+        "id":2,
+        "name": "Đặng Thu Sang",
+        "tel": "0377895243",
+        "permission":1
+    },
+    {
+        "id":3,
+        "name": "Trần Xuân Tiến",
+        "tel": "0385423685",
+        "permission": 2
+    },
+    {
+        "id":4,
+        "name": "Bùi Tuyết Nhi",
+        "tel": "0378534762",
+        "permission": 3
+    },
+    {
+        "id":5,
+        "name": "Nguyễn Văn A",
+        "tel": "0125786324",
+        "permission": 3
+    },
+    {
+        "id":6,
+        "name": "Võ Thị B",
+        "tel": "0364521792",
+        "permission": 3
+    },
+    {
+        "id":7,
+        "name": "Bùi Tiến Dũng",
+        "tel": "0358214567",
+        "permission": 3
+    }
+]

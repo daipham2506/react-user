@@ -1,0 +1,31 @@
+.btn-group {
+  width: 50%;
+}
+.btn.btn-danger {
+  margin:0 5px;
+  width: 40%;
+}
+.btn.btn-warning {
+  width: 40%;
+  margin:0 5px;
+}
+h5.card-header {
+  text-align: center;
+}
+tbody td.act {
+  width: 35%;
+}
+
+.search-form hr{
+  margin: 30px 0;
+  height:2px;
+  width: 100%;
+  background: rgb(12, 142, 202);
+}
+
+@media(max-width: 800px){
+  .btn-group {
+    width: 100%;
+  }
+}
+
